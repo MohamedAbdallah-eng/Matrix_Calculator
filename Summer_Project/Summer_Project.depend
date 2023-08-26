@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1693062237 source:d:\profile\courses\c++\projects\summer_project\functions.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Functions.h"
+
+1693062433 d:\profile\courses\c++\projects\summer_project\functions.h
+	<iostream>
+	<string>
+	<vector>
+
+1693062821 source:d:\profile\courses\c++\projects\summer_project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Functions.h"
+
